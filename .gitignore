@@ -1,1 +1,9 @@
-/SeaBattle-Java-.iml
+*.properties
+*.xml
+*.zip
+*.gitignore
+/.idea/
+/out/
+*.jar
+*.class
+*.iml
